@@ -1,9 +1,9 @@
 ## 최선우
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seonwoo%20Choi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=@oibxxolifontAlign=80&fontAlignY=40&color=gradient)
 
-Seonwoo Choi
-2006/04/13
-Major : Computer Science
-Email : iuip@me.com
-School : Yeungnam Univ.
+Seonwoo Choi  
+2006/04/13  
+Major : Computer Science  
+Email : iuip@me.com  
+School : Yeungnam Univ.  
 Interest : 5G NR / Wireless LAN Research
