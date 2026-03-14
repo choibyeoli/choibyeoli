@@ -8,4 +8,6 @@ Seonwoo Choi
 Major : Computer Science  
 Email : iuip@me.com  
 School : Yeungnam Univ.  
-Interest : 5G NR / Wireless LAN Research
+Interest : 5G NR / Wireless LAN Research  
+
+- 영남대학교 멋쟁이사자처럼 14기 운영진
