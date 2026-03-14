@@ -1,5 +1,5 @@
 ## 최선우
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=@oibxxoli&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=oibxxoli&fontSize=40&fontAlign=80&fontAlignY=35&color=gradient)
 
 Seonwoo Choi  
 
